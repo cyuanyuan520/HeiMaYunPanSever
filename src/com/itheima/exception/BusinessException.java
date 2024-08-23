@@ -1,8 +1,6 @@
 package com.itheima.exception;
-/*
-	// 业务异常类
-*/
-public class BusinessException extends RuntimeException {
+
+public class BusinessException extends RuntimeException{
     public BusinessException() {
     }
 
